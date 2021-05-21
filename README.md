@@ -1,2 +1,2 @@
 # TinDog webiste
-Created using HTML and Css
+Created using HTML and CSS
